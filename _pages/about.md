@@ -28,4 +28,4 @@ I studied Chemical Engineering and Data Science at UC Berkeley, where I worked o
 
 In Fall 2026, I will begin my PhD in Chemical Engineering at MIT through the Departmental Program in Computational Science and Engineering (ChemE-CSE). Broadly, I am interested in using computation, theory, and machine learning to accelerate the design of next-generation energy-storage materials.
 
-#You can find more about my work on the [publications](/publications/) page and through the links below.
+
