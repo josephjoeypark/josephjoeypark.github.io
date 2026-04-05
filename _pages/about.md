@@ -48,6 +48,6 @@ latest_posts:
 
 Hello! I am interested in multiscale modeling of batteries.
 
-I am an incoming Ph.D. student in [Chemical Engineering and Computation (ChemE-CSE)](https://cse.mit.edu/programs-admissions/interdisciplinary-phd-program/).
+I am an incoming Ph.D. student in [Chemical Engineering and Computation (ChemE-CSE)](https://cse.mit.edu/programs-admissions/interdisciplinary-phd-program/) at [MIT](https://www.mit.edu/).
 
-Before, I conducted research in the [Persson Group](https://perssongroup.lbl.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) and earned dual undergraduate degrees in [Chemical Engineering](https://chemistry.berkeley.edu/ugrad/degrees/cheme/about-cbe) and [Data Science](https://cdss.berkeley.edu/dsus), with a minor in [Materials Science and Engineering](https://mse.berkeley.edu/), from [UC Berkeley](https://www.berkeley.edu/).
+Previously, I conducted research in the [Persson Group](https://perssongroup.lbl.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) and earned dual degrees in [Chemical Engineering](https://chemistry.berkeley.edu/ugrad/degrees/cheme/about-cbe) and [Data Science](https://cdss.berkeley.edu/dsus), with a minor in [Materials Science and Engineering](https://mse.berkeley.edu/), from [UC Berkeley](https://www.berkeley.edu/).
