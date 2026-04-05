@@ -37,3 +37,33 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+@use "font-awesome/regular";
+
+/******************************************************************************
+ * About page spacing
+ ******************************************************************************/
+
+.profile {
+  margin-left: 0 !important;
+  text-align: center;
+
+  img {
+    width: 100%;
+    max-width: 240px;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.about .post .post-content {
+  margin-left: 0 !important;
+}
+
+@media (min-width: 768px) {
+  .about .container .row {
+    align-items: center;
+    justify-content: center;
+    column-gap: 1rem;
+  }
+}
