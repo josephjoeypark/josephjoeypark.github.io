@@ -22,10 +22,8 @@ latest_posts:
   limit: 0
 ---
 
-I am Joey Park, a researcher interested in how ions move, coordinate, and interact in complex battery electrolytes. My work combines molecular dynamics, statistical mechanics, and transport theory to connect molecular-scale solvation behavior with macroscopic properties such as conductivity, viscosity, and transference number.
+Hello! My research focuses on multiscale modeling of batteries.
 
-I studied Chemical Engineering and Data Science at UC Berkeley, where I worked on battery materials and electrolyte transport problems across simulation and analysis. My recent research focuses on understanding how local solvation structure, residence times, and ion correlations shape transport in liquid electrolytes.
+I am an incoming Ph.D. student in Chemical Engineering and Computation (ChemE-CSE) at MIT.
 
-In Fall 2026, I will begin my PhD in Chemical Engineering at MIT through the Departmental Program in Computational Science and Engineering (ChemE-CSE). Broadly, I am interested in using computation, theory, and machine learning to accelerate the design of next-generation energy-storage materials.
-
-
+Before, I was a post-bacc researcher at Persson Group (LBNL), and I earned a B.S. in Chemical Engineering and a B.A. in Data Science, with a minor in Materials Science & Engineering from UC Berkeley.
