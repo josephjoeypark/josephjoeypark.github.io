@@ -35,15 +35,13 @@ body.sticky-bottom-footer {
 
 // Profile
 .profile {
-  margin-left: 12rem; // moves picture left
+  float: right;
+  width: 32%;
+  margin-left: 0.5rem;
 
   img {
     width: 100%;
   }
-}
-
-.about .post .post-content {
-  margin-left: -12rem;
 }
 
 // Content layout uses Bootstrap's grid system with responsive columns
