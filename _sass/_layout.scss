@@ -41,6 +41,31 @@ body.sticky-bottom-footer {
   margin-left: 0;
 }
 
+@media (min-width: 992px) {
+  .about .post {
+    display: flex;
+    align-items: flex-start;
+    gap: 3rem;
+  }
+
+  .about .post article {
+    display: contents;
+  }
+
+  .about .post .profile {
+    width: min(26%, 280px);
+    margin-left: -2rem;
+    margin-right: 0;
+    flex-shrink: 0;
+  }
+
+  .about .post .clearfix {
+    flex: 1;
+    max-width: 44rem;
+    margin: 0 auto;
+  }
+}
+
 // Content layout uses Bootstrap's grid system with responsive columns
 // Main content flows naturally through container-mt-5 and Bootstrap grid classes
 // See _layouts/default.liquid and _includes/projects.liquid for examples
